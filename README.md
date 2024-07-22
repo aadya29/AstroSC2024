@@ -3,6 +3,6 @@ This Repository holds materials created for the 2024 Astronomy Coding Summer Cam
 
 Projects:
 
-1. Intro to Coding
-2. Creating multicolor astronomy images
-3. transient detection??
+1. Intro to Python
+2. Creating Multicolor Astronomy Images
+3. Transient Identification
